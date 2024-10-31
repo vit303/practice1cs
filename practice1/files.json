@@ -1,0 +1,548 @@
+{
+  "file1": {
+    "Size": 25,
+    "FileExtension": "exe",
+    "Date": "23.05.2005",
+    "Time": "5:00",
+    "IsDirectory": false
+  },
+  "file2": {
+    "Size": 3,
+    "FileExtension": "cpp",
+    "Date": "13.08.2030",
+    "Time": "7:34",
+    "IsDirectory": false
+  },
+  "file3": {
+    "Size": 2,
+    "FileExtension": "html",
+    "Date": "22.09.2045",
+    "Time": "9:21",
+    "IsDirectory": false
+  },
+  "file4": {
+    "Size": 25,
+    "FileExtension": "-",
+    "Date": "3.02.2022",
+    "Time": "10:21",
+    "IsDirectory": true
+  },
+  "file5": {
+    "Size": 12345,
+    "FileExtension": "exe",
+    "Date": "7.06.2024",
+    "Time": "0:10",
+    "IsDirectory": false
+  },
+  "file6": {
+    "Size": 1,
+    "FileExtension": "css",
+    "Date": "1.01.1111",
+    "Time": "14:44",
+    "IsDirectory": false
+  },
+  "file7": {
+    "Size": 11,
+    "FileExtension": "c",
+    "Date": "10.11.2023",
+    "Time": "7:44",
+    "IsDirectory": false
+  },
+  "file8": {
+    "Size": 8,
+    "FileExtension": "py",
+    "Date": "30.02.3020",
+    "Time": "7:00",
+    "IsDirectory": false
+  },
+  "file9": {
+    "Size": 32,
+    "FileExtension": "dart",
+    "Date": "12.06.2024",
+    "Time": "7:00",
+    "IsDirectory": false
+  },
+  "file10": {
+    "Size": 6,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file11": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file12": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file13": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file14": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file15": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file16": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file17": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file18": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file19": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file20": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file21": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file22": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file23": {
+    "Size": 25,
+    "FileExtension": "exe",
+    "Date": "23.05.2005",
+    "Time": "5:00",
+    "IsDirectory": false
+  },
+  "file24": {
+    "Size": 3,
+    "FileExtension": "cpp",
+    "Date": "13.08.2030",
+    "Time": "7:34",
+    "IsDirectory": false
+  },
+  "file25": {
+    "Size": 2,
+    "FileExtension": "html",
+    "Date": "22.09.2045",
+    "Time": "9:21",
+    "IsDirectory": false
+  },
+  "file26": {
+    "Size": 25,
+    "FileExtension": "-",
+    "Date": "3.02.2022",
+    "Time": "10:21",
+    "IsDirectory": true
+  },
+  "file27": {
+    "Size": 12345,
+    "FileExtension": "exe",
+    "Date": "7.06.2024",
+    "Time": "0:10",
+    "IsDirectory": false
+  },
+  "file28": {
+    "Size": 1,
+    "FileExtension": "css",
+    "Date": "1.01.1111",
+    "Time": "14:44",
+    "IsDirectory": false
+  },
+  "file29": {
+    "Size": 11,
+    "FileExtension": "c",
+    "Date": "10.11.2023",
+    "Time": "7:44",
+    "IsDirectory": false
+  },
+  "file30": {
+    "Size": 8,
+    "FileExtension": "py",
+    "Date": "30.02.3020",
+    "Time": "7:00",
+    "IsDirectory": false
+  },
+  "file31": {
+    "Size": 32,
+    "FileExtension": "dart",
+    "Date": "12.06.2024",
+    "Time": "7:00",
+    "IsDirectory": false
+  },
+  "file32": {
+    "Size": 6,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file33": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file34": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file35": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file36": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file37": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file38": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file39": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file40": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file41": {
+    "Size": 25,
+    "FileExtension": "exe",
+    "Date": "23.05.2005",
+    "Time": "5:00",
+    "IsDirectory": false
+  },
+  "file42": {
+    "Size": 3,
+    "FileExtension": "cpp",
+    "Date": "13.08.2030",
+    "Time": "7:34",
+    "IsDirectory": false
+  },
+  "file43": {
+    "Size": 2,
+    "FileExtension": "html",
+    "Date": "22.09.2045",
+    "Time": "9:21",
+    "IsDirectory": false
+  },
+  "file44": {
+    "Size": 25,
+    "FileExtension": "-",
+    "Date": "3.02.2022",
+    "Time": "10:10",
+    "IsDirectory": true
+  },
+  "file45": {
+    "Size": 12345,
+    "FileExtension": "exe",
+    "Date": "7.06.2024",
+    "Time": "0:10",
+    "IsDirectory": false
+  },
+  "file46": {
+    "Size": 1,
+    "FileExtension": "css",
+    "Date": "1.01.1111",
+    "Time": "14:44",
+    "IsDirectory": false
+  },
+  "file47": {
+    "Size": 11,
+    "FileExtension": "c",
+    "Date": "10.11.2023",
+    "Time": "7:44",
+    "IsDirectory": false
+  },
+  "file48": {
+    "Size": 8,
+    "FileExtension": "py",
+    "Date": "30.02.3020",
+    "Time": "7:00",
+    "IsDirectory": false
+  },
+  "file49": {
+    "Size": 32,
+    "FileExtension": "dart",
+    "Date": "12.06.2024",
+    "Time": "7:00",
+    "IsDirectory": false
+  },
+  "file50": {
+    "Size": 6,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file51": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file52": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file53": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file54": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file55": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file56": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file57": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file58": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file59": {
+    "Size": 25,
+    "FileExtension": "exe",
+    "Date": "23.05.2005",
+    "Time": "5:00",
+    "IsDirectory": false
+  },
+  "file60": {
+    "Size": 3,
+    "FileExtension": "cpp",
+    "Date": "13.08.2030",
+    "Time": "7:34",
+    "IsDirectory": false
+  },
+  "file61": {
+    "Size": 2,
+    "FileExtension": "html",
+    "Date": "22.09.2045",
+    "Time": "9:21",
+    "IsDirectory": false
+  },
+  "file62": {
+    "Size": 25,
+    "FileExtension": "-",
+    "Date": "3.02.2022",
+    "Time": "10:10",
+    "IsDirectory": true
+  },
+  "file63": {
+    "Size": 12345,
+    "FileExtension": "exe",
+    "Date": "7.06.2024",
+    "Time": "0:10",
+    "IsDirectory": false
+  },
+  "file64": {
+    "Size": 1,
+    "FileExtension": "css",
+    "Date": "1.01.1111",
+    "Time": "14:44",
+    "IsDirectory": false
+  },
+  "file65": {
+    "Size": 11,
+    "FileExtension": "c",
+    "Date": "10.11.2023",
+    "Time": "7:44",
+    "IsDirectory": false
+  },
+  "file66": {
+    "Size": 8,
+    "FileExtension": "py",
+    "Date": "30.02.3020",
+    "Time": "7:00",
+    "IsDirectory": false
+  },
+  "file67": {
+    "Size": 32,
+    "FileExtension": "dart",
+    "Date": "12.06.2024",
+    "Time": "7:00",
+    "IsDirectory": false
+  },
+  "file68": {
+    "Size": 6,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file69": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file70": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file71": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file72": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file73": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file74": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file75": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file76": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file77": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  },
+  "file78": {
+    "Size": 7,
+    "FileExtension": "go",
+    "Date": "15.09.2024",
+    "Time": "8:00",
+    "IsDirectory": false
+  }
+}
